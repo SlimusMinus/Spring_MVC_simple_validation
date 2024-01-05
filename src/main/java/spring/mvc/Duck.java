@@ -8,4 +8,8 @@ public class Duck {
         this.name = name;
         this.id = id;
     }
+
+    public String sayQuack(){
+        return "QA";
+    }
 }
